@@ -6,10 +6,6 @@ Uma landing page moderna e responsiva de um evento de Fórmula 1, focada no Gran
 
 O PITWALL é uma interface web estática criada para simular a página oficial do GP de São Paulo. O layout conta com tema escuro (Dark Mode), exibição do grid de pilotos destacando as cores das equipes, tabela de classificação e um formulário validado para simulação de compra de ingressos.
 
-📸 Preview do Projeto
-
-(Dica: Coloque uma imagem do site aqui substituindo este texto. Exemplo: ![Capa do projeto](./img/print-da-tela.png))
-
 ⚙️ Funcionalidades
 
 [x] Design 100% responsivo (Mobile, Tablet e Desktop).
