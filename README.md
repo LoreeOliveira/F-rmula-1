@@ -24,7 +24,7 @@ Este projeto não possui dependências complexas. Para visualizá-lo em sua máq
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone (https://github.com/LoreeOliveira/F-rmula-1/blob/main/README.md)
 
 
 Entre na pasta do projeto:
